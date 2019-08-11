@@ -1,0 +1,19 @@
+package com.brayanrondonh.contacts.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.brayanrondonh.contacts.dao.ContactRepository;
+import com.brayanrondonh.contacts.dto.Contacts;
+
+@Service
+public class ContactService
+{
+	@Autowired
+	ContactRepository dao;
+	
+	public Contacts save(Contacts contacts)
+	{
+		return dao.save(contacts);
+	}
+}

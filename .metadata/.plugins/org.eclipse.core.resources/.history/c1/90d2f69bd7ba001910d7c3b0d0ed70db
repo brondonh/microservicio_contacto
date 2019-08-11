@@ -1,0 +1,5 @@
+package com.brayanrondonh.contacts.dao;
+
+public interface ContactRepository {
+
+}

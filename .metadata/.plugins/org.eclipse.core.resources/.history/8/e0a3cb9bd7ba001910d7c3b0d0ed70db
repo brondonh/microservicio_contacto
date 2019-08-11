@@ -1,0 +1,5 @@
+package com.brayanrondonh.contacts.service;
+
+public class ContactService {
+
+}

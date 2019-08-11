@@ -1,0 +1,294 @@
+2019-08-09 10:24:14,178 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-09 10:27:54,932 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:contacts-ws:0.0.1-SNAPSHOT @ C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\pom.xml.
+2019-08-09 10:27:57,835 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contacts-ws/src/main/java
+2019-08-09 10:27:57,836 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /contacts-ws/src/main/resources
+2019-08-09 10:27:57,862 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /contacts-ws/src/main/resources
+2019-08-09 10:27:57,874 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contacts-ws/src/test/java
+2019-08-09 10:27:59,568 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2019-08-09 10:27:59,570 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-09 10:28:00,215 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:contacts-ws:0.0.1-SNAPSHOT @ C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\pom.xml.
+2019-08-09 10:28:01,781 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contacts-ws/src/main/java
+2019-08-09 10:28:01,782 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /contacts-ws/src/main/resources
+2019-08-09 10:28:01,783 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /contacts-ws/src/main/resources
+2019-08-09 10:28:01,785 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contacts-ws/src/test/java
+2019-08-09 10:28:02,385 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-08-09 10:28:06,334 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:28:06,338 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 10:28:06,351 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 10:28:06,355 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:28:06,355 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 10:37:12,044 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:37:12,086 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 10:37:12,090 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 10:37:12,093 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:37:12,093 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 10:37:42,518 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:37:42,519 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 10:37:42,521 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 10:37:42,523 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:37:42,523 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 10:37:58,349 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:37:58,351 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 10:37:58,354 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 10:37:58,356 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:37:58,356 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 10:38:19,703 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:38:19,704 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 10:38:19,707 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 10:38:19,710 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:38:19,710 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 10:38:30,629 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:38:30,631 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 10:38:30,633 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 10:38:30,635 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:38:30,635 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 10:38:40,430 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:38:40,431 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 10:38:40,434 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 10:38:40,436 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:38:40,436 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 10:38:51,250 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:38:51,251 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 10:38:51,255 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 10:38:51,260 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:38:51,260 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 10:39:14,307 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:39:14,308 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 10:39:14,310 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 10:39:14,312 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:39:14,312 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 10:39:30,498 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:39:30,499 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 10:39:30,501 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 10:39:30,503 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:39:30,504 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 10:39:48,128 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:39:48,129 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 10:39:48,131 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 10:39:48,133 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:39:48,133 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 10:40:13,964 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:40:13,965 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 10:40:13,967 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 10:40:13,969 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:40:13,969 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 10:40:24,178 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:40:24,179 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 10:40:24,181 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 10:40:24,183 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:40:24,183 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 10:41:13,761 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:41:13,762 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 10:41:13,764 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 10:41:13,765 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 10:41:13,765 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:11:05,992 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:11:06,040 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:11:06,043 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:11:06,046 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:11:06,046 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:12:01,337 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:12:01,339 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:12:01,343 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:12:01,355 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:12:01,355 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:28:05,233 [Worker-27: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:28:05,234 [Worker-27: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:28:05,236 [Worker-27: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:28:05,238 [Worker-27: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:28:05,238 [Worker-27: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:30:12,287 [Worker-29: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:30:12,288 [Worker-29: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:30:12,290 [Worker-29: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:30:12,292 [Worker-29: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:30:12,292 [Worker-29: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:32:29,700 [Worker-32: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:32:29,701 [Worker-32: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:32:29,703 [Worker-32: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:32:29,705 [Worker-32: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:32:29,705 [Worker-32: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:35:53,580 [Worker-34: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:35:53,581 [Worker-34: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:35:53,584 [Worker-34: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:35:53,586 [Worker-34: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:35:53,587 [Worker-34: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:37:52,469 [Worker-41: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:37:52,470 [Worker-41: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:37:52,472 [Worker-41: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:37:52,474 [Worker-41: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:37:52,474 [Worker-41: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:41:10,357 [Worker-44: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:41:10,358 [Worker-44: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:41:10,360 [Worker-44: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:41:10,362 [Worker-44: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:41:10,363 [Worker-44: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:42:00,938 [Worker-51: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:42:00,939 [Worker-51: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:42:00,941 [Worker-51: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:42:00,943 [Worker-51: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:42:00,943 [Worker-51: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:46:34,759 [Worker-52: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:46:34,760 [Worker-52: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:46:34,763 [Worker-52: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:46:34,764 [Worker-52: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:46:34,765 [Worker-52: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:46:49,122 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:46:49,123 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:46:49,125 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:46:49,126 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:46:49,127 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:46:58,925 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:46:58,926 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:46:58,928 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:46:58,929 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:46:58,930 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:47:43,073 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:47:43,074 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:47:43,075 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:47:43,077 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:47:43,077 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:47:53,317 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:47:53,318 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:47:53,319 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:47:53,321 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:47:53,321 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:47:59,123 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:47:59,124 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:47:59,126 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:47:59,128 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:47:59,128 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:48:08,964 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:48:08,965 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:48:08,967 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:48:08,969 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:48:08,969 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:48:24,425 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:48:24,426 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:48:24,428 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:48:24,430 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:48:24,430 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:48:32,966 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:48:32,967 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:48:32,969 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:48:32,971 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:48:32,971 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:48:44,597 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:48:44,598 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:48:44,601 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:48:44,603 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:48:44,603 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 11:50:44,500 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:50:44,502 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 11:50:44,505 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 11:50:44,507 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 11:50:44,507 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 12:30:01,707 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 12:30:01,708 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 12:30:01,710 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 12:30:01,712 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 12:30:01,712 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 12:30:19,548 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 12:30:19,550 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 12:30:19,552 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 12:30:19,554 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 12:30:19,554 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 12:34:23,247 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 12:34:23,248 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 12:34:23,250 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 12:34:23,251 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 12:34:23,251 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 12:34:42,815 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 12:34:42,816 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 12:34:42,819 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 12:34:42,822 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 12:34:42,822 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 13:58:01,309 [Worker-78: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 13:58:01,311 [Worker-78: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 13:58:01,315 [Worker-78: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 13:58:01,317 [Worker-78: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 13:58:01,317 [Worker-78: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 14:05:26,216 [Worker-84: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 14:05:26,217 [Worker-84: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 14:05:26,219 [Worker-84: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 14:05:26,220 [Worker-84: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 14:05:26,221 [Worker-84: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 14:09:11,056 [Worker-87: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 14:09:11,058 [Worker-87: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 14:09:11,060 [Worker-87: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 14:09:11,062 [Worker-87: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 14:09:11,062 [Worker-87: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 14:11:22,450 [Worker-85: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 14:11:22,451 [Worker-85: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 14:11:22,453 [Worker-85: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 14:11:22,454 [Worker-85: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 14:11:22,454 [Worker-85: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 14:42:55,555 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-09 15:02:11,184 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-09 15:20:25,845 [Worker-20: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 15:20:25,851 [Worker-20: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 15:20:25,865 [Worker-20: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 15:20:25,869 [Worker-20: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 15:20:25,870 [Worker-20: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 15:31:28,348 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-09 15:31:46,077 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 15:31:46,086 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 15:31:46,123 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 15:31:46,129 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 15:31:46,130 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 16:09:08,058 [Worker-25: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 16:09:08,061 [Worker-25: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 16:09:08,065 [Worker-25: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 16:09:08,066 [Worker-25: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 16:09:08,067 [Worker-25: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 16:11:55,565 [Worker-27: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 16:11:55,566 [Worker-27: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 16:11:55,568 [Worker-27: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 16:11:55,570 [Worker-27: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 16:11:55,570 [Worker-27: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 16:21:34,379 [Worker-1: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 16:21:34,381 [Worker-1: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 16:21:34,383 [Worker-1: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 16:21:34,386 [Worker-1: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 16:21:34,386 [Worker-1: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 16:49:53,012 [Worker-47: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 16:49:53,014 [Worker-47: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 16:49:53,016 [Worker-47: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 16:49:53,018 [Worker-47: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 16:49:53,019 [Worker-47: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 16:53:05,293 [Worker-49: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 16:53:05,294 [Worker-49: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 16:53:05,297 [Worker-49: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 16:53:05,299 [Worker-49: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 16:53:05,299 [Worker-49: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 17:06:53,481 [Worker-51: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 17:06:53,482 [Worker-51: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 17:06:53,485 [Worker-51: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 17:06:53,487 [Worker-51: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 17:06:53,487 [Worker-51: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 17:09:14,594 [Worker-54: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 17:09:14,595 [Worker-54: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 17:09:14,597 [Worker-54: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 17:09:14,599 [Worker-54: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 17:09:14,599 [Worker-54: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 17:11:04,271 [Worker-41: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 17:11:04,273 [Worker-41: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 17:11:04,276 [Worker-41: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 17:11:04,278 [Worker-41: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 17:11:04,279 [Worker-41: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-09 17:15:28,835 [Worker-56: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 17:15:28,836 [Worker-56: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-09 17:15:28,839 [Worker-56: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-09 17:15:28,840 [Worker-56: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-09 17:15:28,841 [Worker-56: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-10 13:16:58,410 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-08-10 13:17:08,701 [Worker-4: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-10 13:17:08,705 [Worker-4: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-10 13:17:08,720 [Worker-4: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-10 13:17:08,723 [Worker-4: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-10 13:17:08,723 [Worker-4: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
+2019-08-10 20:05:22,659 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-10 20:05:32,051 [Worker-3: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-10 20:05:32,059 [Worker-3: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-10 20:05:32,088 [Worker-3: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-10 20:05:32,092 [Worker-3: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-10 20:05:32,092 [Worker-3: Launching contacts-ws - ContactsWsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\brondonh\Desktop\microservicio_contacto\contacts-ws\src\test\resources
